@@ -1,0 +1,14 @@
+.buttons{
+    position: absolute;
+    top: 10%;
+    height: 20%;
+    
+}
+.button_c{
+    background-color: lightblue;
+}
+
+.container{
+    position: absolute;
+    top: 20%;
+}
